@@ -1,7 +1,7 @@
 # Pytorch
 
 Pytorch based object detection training and inferencing
-  - Used RestNet50
+  - Used FRCNN RestNet50
   - Flask for api's
   - Integrated with MongoDB
 
